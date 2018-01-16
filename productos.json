@@ -1,0 +1,42 @@
+[
+	{
+		"codigo":"001",
+		"nombre":"Sofa Rx",
+		"descripcion":"Sofa biplaza color rojo"
+},
+{
+		"codigo":"002",
+		"nombre":"Mesa madera",
+		"descripcion":"Mesa fabricada en madera de roble"
+},
+{
+		"codigo":"003",
+		"nombre":"Silla basic",
+		"descripcion":"Silla para mesa comedor"
+},
+{
+		"codigo":"004",
+		"nombre":"Silla confort",
+		"descripcion":"Silla confortable"
+},
+{
+		"codigo":"005",
+		"nombre":"Silla plegable",
+		"descripcion":"Silla para ir donde quieras"
+},
+{
+		"codigo":"006",
+		"nombre":"mesita de noche",
+		"descripcion":"Silla confortable"
+},
+{
+		"codigo":"007",
+		"nombre":"Mueble salo",
+		"descripcion":"Mueble para el salon"
+},
+{
+		"codigo":"008",
+		"nombre":"Sofa tx",
+		"descripcion":"sofa confortable"
+}
+]
